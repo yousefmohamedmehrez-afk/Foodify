@@ -56,7 +56,7 @@ routes/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Foodify.git
+git clone https://github.com/yousefmohamedmehrez-afk/Foodify.git
 ```
 
 Go to the project
